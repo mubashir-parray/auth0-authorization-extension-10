@@ -73,7 +73,7 @@
     },
     "USER_SEARCH_ENGINE": {
       "description": "User search engine. Cloud only supports V3",
-      "type": "select",
+      "type": "img",
       "default": "v3",
       "allowMultiple": false,
       "options": [
