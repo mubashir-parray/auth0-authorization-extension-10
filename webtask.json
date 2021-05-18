@@ -22,7 +22,7 @@
   },
   "secrets": {
     "STORAGE_TYPE": {
-      "description": "Choose the storage type for the database",
+      "description": "Choose the storage type for the database XXYYZZ",
       "type": "select",
       "required": true,
       "default": "webtask",
