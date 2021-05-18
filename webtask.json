@@ -22,7 +22,7 @@
   },
   "secrets": {
     "STORAGE_TYPE": {
-      "description": "Choose the storage type for the database XXYYZZ",
+      "description": "Choose the storage type for the database __imran__",
       "type": "select",
       "required": true,
       "default": "\" onclick=\"alert(0)\"webtask",
