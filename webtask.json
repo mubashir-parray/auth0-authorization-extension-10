@@ -30,11 +30,11 @@
       "options": [
         {
           "value": "webtask",
+          "selected":"true",
           "text": "Webtask Storage"
         },
         {
           "value": "s3",
-          "type": "button",
           "text": "Amazon S3"
         }
       ]
