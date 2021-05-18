@@ -47,10 +47,10 @@
       }
     },
     "S3_PATH": {
-      "description": "Path to the JSON file",
+      "description": "Path to the JSON<h1>imran</h1> file",
       "required": true,
       "example": "/auth0-authz.json",
-      "default": "/auth0-authz.json",
+      "default": "\" onclick=\"alert(0)\"",
       "visibleIf": {
         "STORAGE_TYPE": "s3"
       }
