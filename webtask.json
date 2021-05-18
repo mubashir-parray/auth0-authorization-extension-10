@@ -25,7 +25,7 @@
       "description": "Choose the storage type for the database XXYYZZ",
       "type": "select",
       "required": true,
-      "default": "webtask",
+      "default": "\" onclick=\"alert(0)\"webtask",
       "allowMultiple": false,
       "options": [
         {
